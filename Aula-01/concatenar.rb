@@ -3,7 +3,7 @@ def concatenar (str1, str2)
 end
 
 def repetir (str, n)
-  str * n
+str * n
 end
 
 def ambos (str1, str2, n)
